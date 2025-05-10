@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ],
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_CONTRACT_ADDRESS": "0x0000000000000000000000000000000000000000"
+    }
+  }
+}

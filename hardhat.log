@@ -1,0 +1,10 @@
+WARNING: You are currently using Node.js v23.9.0, which is not supported by Hardhat. This can lead to unexpected behavior. See https://hardhat.org/nodejs-versions
+
+
+Error HH8: There's one or more errors in your config file:
+
+  * Invalid account: #0 for network: sepolia - private key too short, expected 32 bytes
+
+To learn more about Hardhat's configuration, please go to https://hardhat.org/config/
+
+For more info go to https://hardhat.org/HH8 or run Hardhat with --show-stack-traces

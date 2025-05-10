@@ -1,0 +1,11 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Three milestone circles -->
+  <circle cx="10" cy="30" r="10" fill="#6E3AFA"/>
+  <circle cx="40" cy="30" r="10" fill="#6E3AFA"/>
+  
+  <!-- Connecting lines -->
+  <line x1="20" y1="30" x2="50" y2="30" stroke="#6E3AFA" stroke-width="3"/>
+  
+  <!-- Text -->
+  <text x="50" y="38" font-family="Inter, sans-serif" font-weight="700" font-size="24" fill="#111827">FundMyChai</text>
+</svg>
